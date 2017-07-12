@@ -1,2 +1,3 @@
 # Twitter_Analysis_with_Tweepy
-Twitter Analysis with Tweepy
+
+Simple but useful twitter streaming and analysis using Tweepy
